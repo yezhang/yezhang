@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am Ye Zhang, a web developer, a computer graphics programmer, and a programming language researcher.
 
+[![Yezhang's GitHub stats](https://github-readme-stats-yezhang.vercel.app/api?username=yezhang)](https://github.com/yezhang)
+
 ## Computer graphics
 
-[![Yezhang's GitHub stats](https://github-readme-stats-yezhang.vercel.app/api?username=yezhang)](https://github.com/yezhang)
+[![DrawJS](https://github-readme-stats-yezhang.vercel.app/api/pin/?username=yezhang&repo=drawjs)](https://github.com/anuraghazra/github-readme-stats)
