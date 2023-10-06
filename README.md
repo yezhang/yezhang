@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Ye Zhang, a web developer, a computer graphics programmer, and a programming language researcher.
+
+## Computer graphics
+
+[![Yezhang's GitHub stats](https://github-readme-stats-yezhang.vercel.app/api?username=yezhang)](https://github.com/yezhang)
